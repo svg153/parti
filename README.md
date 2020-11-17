@@ -2,16 +2,15 @@
 
 A geeky way to wish your friends or loved ones happy birthday in the terminal, made for [Kumar Abhirup]'s birthday.
 
-# Demo
+Head over to your terminal, and hit `npx happy-bday` followed by a name, and watch the magic happen.
 
-To test out how it looks, type in `npx happy-bday` and watch the magic happen. You can also specify a username with `npx happy-bday <name>`!
-
-# Building n' customising
-
-To do this for one of your friends, simply
+# Building
 
 - Clone this repo (`git clone url`) or download the code.
 - Install the packages (`npm install`).
+
+# Publishing
+
 - Type in `node index.ts` to make sure everything is working nicely.
 - Run `npm run build`.
 - `npm version patch` to patch the version.
