@@ -4,8 +4,6 @@ A geeky way to wish your friends or loved ones happy birthday in the terminal, m
 
 Head over to your terminal, and hit `npx happy-bday` followed by a name, and watch the magic happen.
 
-![image](https://user-images.githubusercontent.com/69592270/99557292-877bd080-2990-11eb-9217-73487daad2b1.png)
-
 # Building
 
 - Clone this repo (`git clone url`) or download the code.
