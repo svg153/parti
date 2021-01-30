@@ -1,4 +1,4 @@
-# terminal-birthday
+# parti
 
 A geeky way to wish your friends or loved ones happy birthday in the terminal, made for [Kumar Abhirup]'s birthday.
 
